@@ -20,6 +20,10 @@ Your can open apkg file by [anki client](https://apps.ankiweb.net/).
 * **backend-interviewer.apkg**
 
   `backend-interviewer.apkg` contains backend interviewer questions and answer.
+  
+* **English.apkg**
+
+  `English.apkg` contains English words and phrase.
 
 # Contact
 

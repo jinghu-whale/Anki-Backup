@@ -1,5 +1,5 @@
 # Anki-Backup
-My anki cards' backups, which have no sheduling informations.
+My anki cards' backups.
 
 # Info
 
@@ -7,7 +7,7 @@ Your can open apkg file by [anki client](https://apps.ankiweb.net/).
 
 * **collection-[date]@[time].colpkg**
 
-  Anki will copy your entire collection into a file ending in .colpkg, and place it on your desktop. A collection package is used to back up your collection, or copy it to another device.
+  Anki will copy your entire collection into a file ending in .colpkg, and place it on your desktop. A collection package is used to back up your collection, or copy it to another device.And it has scheduling information.
 
 * **All Decks.apkg**
 
